@@ -67,7 +67,7 @@ exports.menu = (prefix, salam, pushname) =>{
 │•INFO BOT•
 │VERSI : 0.02
 │FITUR : 230
-│CREATOR : APRILIA
+│CREATOR : AJUR
 │MODEL SCRIPT : BETA
 │SUBSCRIBE CHANNEL VENZ BOT
 │https://www.youtube.com/c/Venzz - BOT
@@ -344,7 +344,7 @@ exports.menu = (prefix, salam, pushname) =>{
 │❒ VENZZ (NEWBIE)
 │❒ SIEGRIN (MASTAH)
 │❒ DINATA (MASTAH)
-│❒ SANZY YT (MASTAH)
+│❒ OP NGANTUK TEAm
 │❒ PENYEDIA MODULE
 ╰───────────────┈ ⳹
 `
